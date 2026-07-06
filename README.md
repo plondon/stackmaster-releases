@@ -1,6 +1,6 @@
 # stackmaster-releases
 
-parallel agents using worktrees with first class support for graphite stacks
+parallel agents using worktrees with first class support for stacking prs
 
 <img width="2048" height="1152" alt="Screenshot 2026-05-27 at 2 23 19 PM" src="https://github.com/user-attachments/assets/f6ec85c8-ba23-4d92-ae08-11184caad131" />
 
